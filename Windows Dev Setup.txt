@@ -1,0 +1,14 @@
+--ninite
+https://ninite.com/7zip-discord-everything-filezilla-firefox-foxit-gimp-keepass2-notepadplusplus-openoffice-pidgin-putty-skype-teracopy-vlc-windirstat/
+
+--choco
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+choco install git.install vscode notepadplusplus firefox 7zip.install filezilla everything discord slack pidgin putty skype teracopy windirstat 
+
+--wallpapers
+4walled
+
+--tools
+hijackthis @ github
+hijackthis.de (need replacement)
+pirifirm ccleaner 
